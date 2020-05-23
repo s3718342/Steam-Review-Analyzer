@@ -1,0 +1,17 @@
+{
+  "name": "get-review-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/language": "^4.0.0",
+    "axios": "^0.19.2",
+    "mysql": "^2.18.1",
+    "utf8": "^3.0.0"
+  }
+}
