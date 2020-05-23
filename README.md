@@ -2,7 +2,7 @@
 # CC-Assignment-2
 ## Steam Review Analyzer
 
-This application uses Google Cloud Natural Language API analyzeEntitySentiment method to coalesce many steam review into one easily digestible chunk. 
+This application uses Google Cloud Natural Language API analyzeEntitySentiment method to coalesce many steam reviews into one easily digestible chunk. 
 
 ## Getting Started
 
