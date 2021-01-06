@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/language": "^4.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mysql": "^2.18.1",
     "utf8": "^3.0.0"
   }
